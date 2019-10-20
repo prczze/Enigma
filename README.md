@@ -1,5 +1,5 @@
 # Enigma
-Enigma
+
 ======
 
 This is the working code for a German Enigma machine used in WW2. This project was assigned for CS61B at UC Berkeley and the Project specs can be read here:
